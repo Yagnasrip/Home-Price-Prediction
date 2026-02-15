@@ -33,7 +33,6 @@ The goal is to analyze housing data, train models, and evaluate their performanc
 
 ## 📂 Project Structure
 
-│
 ├── housesales.ipynb
 
 
